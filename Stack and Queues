@@ -1,5 +1,0 @@
-Stack supports last-in, first-out semantics for inserts and deletes, whereas queues are first-in, first-out. 
-
-Stack: 
-
-A stack supports two basic operation : push and pop. Elements are added(pushed) and removed(poped) in last-in first-out order. 
